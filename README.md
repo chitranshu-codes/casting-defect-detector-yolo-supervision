@@ -2,7 +2,7 @@
 
 ### A Computer Vision application simulating an industrial conveyor belt inspection system.
 
-[](./rejected_logs/defect_detected_19-08-56_635.jpg)
+[](./https://github.com/chitranshu-codes/casting-defect-detector-yolo-supervision/blob/main/rejected_logs/defect_detected_19-08-56_635.jpg)
 
 ---
 
