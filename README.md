@@ -2,7 +2,7 @@
 
 ### A Computer Vision application simulating an industrial conveyor belt inspection system.
 
-![](./rejected_logs/defect_detected_19-08-56_635.jpg)
+![](./rejected_logs/defect_detected_19-09-13_651.jpg)
 
 ---
 
